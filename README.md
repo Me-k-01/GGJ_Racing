@@ -19,11 +19,17 @@ Cependant, les adversaires sur le circuit sont très peu compétent au volant. C
 ## Contrôles
 
 > W -> Avancer
+
 > S -> Reculer
+
 > A -> Tourner à gauche
+
 > D -> Tourner à droite
+
 > Espace -> Frein a main
+
 > Effacer -> Se retourner (lorsque renversé)
+
 > Alt + F4 -> Quitter le jeu
 
 
