@@ -1,3 +1,8 @@
+# FMOD
+Plugins/FMODStudio/
+Plugins/FMODStudio/Docs/*
+Plugins/FMODStudioNiagara/
+
 # Visual Studio 2015 user specific files
 .vs/
 
@@ -72,3 +77,41 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Plugins/FMODStudio/Docs/api-reference-afmodambientsound.html
+Plugins/FMODStudio/Docs/api-reference-common.html
+Plugins/FMODStudio/Docs/api-reference-ifmodstudiomodule.html
+Plugins/FMODStudio/Docs/api-reference-ufmodanimnotifyplay.html
+Plugins/FMODStudio/Docs/api-reference-ufmodasset.html
+Plugins/FMODStudio/Docs/api-reference-ufmodaudiocomponent.html
+Plugins/FMODStudio/Docs/api-reference-ufmodbank.html
+Plugins/FMODStudio/Docs/api-reference-ufmodblueprintstatics.html
+Plugins/FMODStudio/Docs/api-reference-ufmodbus.html
+Plugins/FMODStudio/Docs/api-reference-ufmodevent.html
+Plugins/FMODStudio/Docs/api-reference-ufmodport.html
+Plugins/FMODStudio/Docs/api-reference-ufmodsettings.html
+Plugins/FMODStudio/Docs/api-reference-ufmodsnapshot.html
+Plugins/FMODStudio/Docs/api-reference-ufmodsnapshotreverb.html
+Plugins/FMODStudio/Docs/api-reference-ufmodvca.html
+Plugins/FMODStudio/Docs/api-reference.html
+Plugins/FMODStudio/Docs/audiolink.html
+Plugins/FMODStudio/Docs/blueprint-reference-asynchronous-loading.html
+Plugins/FMODStudio/Docs/blueprint-reference-bus.html
+Plugins/FMODStudio/Docs/blueprint-reference-common.html
+Plugins/FMODStudio/Docs/blueprint-reference-component.html
+Plugins/FMODStudio/Docs/blueprint-reference-enums.html
+Plugins/FMODStudio/Docs/blueprint-reference-eventinstance.html
+Plugins/FMODStudio/Docs/blueprint-reference-structs.html
+Plugins/FMODStudio/Docs/blueprint-reference-utilities.html
+Plugins/FMODStudio/Docs/blueprint-reference.html
+Plugins/FMODStudio/Docs/glossary.html
+Plugins/FMODStudio/Docs/niagara.html
+Plugins/FMODStudio/Docs/platform-specifics.html
+Plugins/FMODStudio/Docs/plugins.html
+Plugins/FMODStudio/Docs/settings.html
+Plugins/FMODStudio/Docs/style/code_highlight.css
+Plugins/FMODStudio/Docs/troubleshooting.html
+Plugins/FMODStudio/Docs/user-guide.html
+Plugins/FMODStudio/Docs/welcome-whats-new-200.html
+Plugins/FMODStudio/Docs/welcome-whats-new-201.html
+Plugins/FMODStudio/Docs/welcome-whats-new-202.html
+Plugins/FMODStudio/Docs/welcome.html

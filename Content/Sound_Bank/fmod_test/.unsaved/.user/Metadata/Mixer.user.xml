@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
+<<<<<<< HEAD:Content/Sound_Bank/fmod_test/.unsaved/.user/Metadata/Mixer.user.xml
 	<object class="Mixer" id="{24303dda-a18b-4ac3-a7ae-287f1752d6c2}" />
+=======
+	<object class="Mixer" id="{bc60fcb0-822b-4542-bf9e-70f37da5b4c3}" />
+>>>>>>> 0259254cb2c12eed2f2c648345d90d3492c656b6:Content/FMOD/bruitVoiture/.user/Metadata/Mixer.user.xml
 </objects>
