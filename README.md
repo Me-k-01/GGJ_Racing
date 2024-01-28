@@ -33,8 +33,16 @@ En bas à droite : Le compteur de vitesse du véhicule (en km/h).
 En bas à gauche : Le temps restant avant la fin de la course.
 
 ## Démo
-Démonstration in game : 
+Démonstration en jeu : 
 
+- La course démare après un décompte. Certains font demi-tour.
+![Démonstration départ](demo_depart.gif)
+
+- Les joueurs peuvent se rentrer dedans
+![Démonstration collision](demo_collision.gif)
+
+- Sur la piste se trouve des boosteurs
+![Démonstration booster](demo_booster.gif)
 
 ## Contributeurs du projet
 
