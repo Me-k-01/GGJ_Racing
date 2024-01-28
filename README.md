@@ -2,7 +2,7 @@
 
 Ce projet de jeu de voiture sur Unreal 5 (v5.3.2) a été réalisé dans le cadre de la Global Game Jam 2024. Le thème de la jam était "Make me laugh" C'est pourquoi nous avons décider de réaliser un jeu de course fun assez basé sur la physique ! 
 
-Voici la listes des cointraintes qui ont été choisis pour ce jeu :
+Voici la listes des contraintes qui ont été choisis pour ce jeu :
 - Sharing is caring   - (Sponsored by Github): Share the source code for your submission in a public GitHub repository and list the URL on your submission page.
 - Lunch Special: Your game can be played with one hand. The other hand is free to hold your sandwich.
 - Mouthing Off: "Audio is an important part of game design, but with so many DAWs and midi keyboards to choose from, it can be hard to choose! So we're going back to basics! For this diversifier, every bit of audio in your game must be made with your mouth! Singing, beatboxing, and little lip smacks for impact are all allowed and encouraged! You may still use software to trim the audio files as needed, but they should not be artificially created. Good Luck!"
