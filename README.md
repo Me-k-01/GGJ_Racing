@@ -59,6 +59,6 @@ Démonstration en jeu :
 - Auberval Florian : Level design et effet visuel
 - Auliac Yann : Modélisation et animation
 - Barron Quentin : Sound design et musique
-- Cavailles Théo : Programmation et ajout
+- Cavailles Théo : Programmation
 - Geslin Antoine : Programmation
 
