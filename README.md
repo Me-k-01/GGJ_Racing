@@ -33,9 +33,13 @@ Cependant, les adversaires sur le circuit sont très peu compétent au volant. C
 > Alt + F4 -> Quitter le jeu
 
 
-## UI
-En haut a gauche : La liste des participants triée selon leurs ordres dans la course (les joueurs clandestins n'y figure donc pas).
+## L'interface utilisateur
+En haut à gauche : La liste des participants triée selon leurs ordres dans la course (les joueurs clandestins n'y figure donc pas).
+
+En haut à droite : Les appels téléphoniques reçus.
+
 En bas à droite : Le compteur de vitesse du véhicule (en km/h).
+
 En bas à gauche : Le temps restant avant la fin de la course.
 
 ## Démo
