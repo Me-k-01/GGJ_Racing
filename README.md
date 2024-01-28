@@ -36,13 +36,13 @@ En bas à gauche : Le temps restant avant la fin de la course.
 Démonstration en jeu : 
 
 - La course démare après un décompte. Certains font demi-tour.
-![Démonstration départ](demo_depart.gif)
+![Démonstration départ](Demo/demo_depart.gif)
 
 - Les joueurs peuvent se rentrer dedans
-![Démonstration collision](demo_collision.gif)
+![Démonstration collision](Demo/demo_collision.gif)
 
 - Sur la piste se trouve des boosteurs
-![Démonstration booster](demo_booster.gif)
+![Démonstration booster](Demo/demo_booster.gif)
 
 ## Contributeurs du projet
 
