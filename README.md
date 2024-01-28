@@ -9,7 +9,7 @@ Voici la listes des cointraintes qui ont été choisis pour ce jeu :
 - Forrest Gump: The character only has the "Yes" option in all dialogues with NPCs.
 - Woodstock vibes: The art of your game is done in psychedelic style.
 
-## Concepte du jeu
+## Concept du jeu
 
 Dans ce jeu, le joueur participe à une course truquée : 
 À chaque début de course, il reçoit un message de la part de l'annonceur, lui donnant l'opportunité de remporter gros s'il finit la course à une certane place. Sur le circuit, les participants doivent faire autant de tour qu'ils le peuvent, car jouant contre la montre. 
