@@ -1,5 +1,6 @@
 # FMOD
 Plugins/FMODStudio/
+Plugins/FMODStudio/Docs/*
 Plugins/FMODStudioNiagara/
 
 # Visual Studio 2015 user specific files
