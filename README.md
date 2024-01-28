@@ -60,5 +60,5 @@ Démonstration en jeu :
 - Auliac Yann : Modélisation et animation
 - Barron Quentin : Sound design et musique
 - Cavailles Théo : Programmation
-- Geslin Antoine : Programmation
+- Geslin Antoine : Interface utilisateur
 
