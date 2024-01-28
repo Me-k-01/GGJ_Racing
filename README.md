@@ -10,16 +10,21 @@ Le fait qu'une parti des participant doivent faire la course à reculons créera
 Des pieges de ralentissement sur la piste pourrait ainsi devenir des boosts lorsque pris à l'envers
 
 # Contrôle
-TODO
+W -> Avancer
+S -> Reculer
+A -> Tourner à gauche
+D -> Tourner à droite
+Espace -> Frein a main
+Effacer -> Se retourner (lorsque renversé)
+Alt + F4 -> Quitter le jeu
 
 # Démo
-TODO
 
-# Participants
+
+# Contributeurs du projet
 - Auberval Florian
-- Auliac Yann
-- Cavailles Théo
-- Duzes Florian
-- Fazendeiro Jonas
+- Auliac Yann : Modélisation et animation
+- Barron Quentin : Sound design et musique
+- Cavailles Théo 
 - Geslin Antoine
 
